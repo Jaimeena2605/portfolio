@@ -37,6 +37,7 @@ a:hover{
 .main{
     width: 100%;
     background: url(bg\ portfolio.jpg);
+    padding-bottom: 10px;
     background-position: center;
     background-size: cover;
     height: 100vh;
